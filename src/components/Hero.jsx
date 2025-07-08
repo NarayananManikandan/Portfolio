@@ -4,8 +4,8 @@ import "../css/Hero.css";
 import profileImg from "../images/heroimg.png";
 import herocolor from "../images/herocolor.png"
 import logoImg from "../images/logo.png";
-import vector from "../images/Vector1.png"
-import vector1 from "../images/Vector.png"
+import Vector1 from "../images/Vector-1.png"
+import vector from "../images/Vector.png"
 import vector2 from "../images/Vector-2.png"
 
 function Hero() {
@@ -53,10 +53,10 @@ function Hero() {
 
           <div className="social-icons">
             <a href="mailto:narayananmanikandan04@gmail.com?subject=Hello%20Narayanan&body=I%20saw%20your%20portfolio%20and%20wanted%20to%20connect!">
-              <img src= {vector} alt="Icon 1" />
+              <img src= {Vector1} alt="Icon 1" />
             </a>
             <a href="https://github.com/NarayananManikandan">
-              <img src= {vector1} alt="GitHub" />
+              <img src= {vector} alt="GitHub" />
             </a>
             <a href="https://www.linkedin.com/in/narayanan-manikandan-0b0a69290/">
               <img src= {vector2} alt="LinkedIn" />
