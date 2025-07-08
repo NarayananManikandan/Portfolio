@@ -19,7 +19,7 @@ import project11 from "../images/Project/project11.png";
 const projects = [
   {
     title: "Job Application Tracker",
-    desc: "A full-stack CRUD application that helps users efficiently track job applications. Features include creating, editing, updating, and deleting applications with real-time UI updates and status management",
+    desc: "A MERN-stack CRUD application that helps users efficiently track job applications. Features include creating, editing, updating, and deleting applications with real-time UI updates and status management",
     link: "https://job-application-details.netlify.app/",
     img: project11,
   },
@@ -31,7 +31,7 @@ const projects = [
   },
   {
     title: "Student Registration",
-    desc: "A backend-based CRUD application for managing student records. Allows admin users to register students, view details, update information, and delete records",
+    desc: "A backend-based CRUD application for managing student records. Allows admin users to register students, view details, View information",
     link: "https://studentregistration-skcp.onrender.com",
     img: project10,
   },
@@ -75,13 +75,13 @@ const projects = [
     title: "Feedback Form",
     desc: "A Node.js, Express, MongoDB, and EJS app for managing customizable feedback forms and viewing dynamic responses.",
     link: "https://feedbackform-7ccc.onrender.com",
-    img: project7,
+    img: project8,
   },
   {
     title: "QR Code Generator",
     desc: "A backend-powered web app that generates QR codes from user input using Node.js and Express",
     link: "https://qr-code-t5pp.onrender.com",
-    img: project8,
+    img: project7,
   },
   // Add more...
 ];

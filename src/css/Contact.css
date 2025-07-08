@@ -29,9 +29,10 @@
 .contact-subtitle {
     font-size: 1rem;
     margin: 30px 0px;
-    text-transform: uppercase;
+        /* text-transform: uppercase; */
     color: #ccc;
 }
+
 
 .contact-container {
     display: flex;
