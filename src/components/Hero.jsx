@@ -4,8 +4,8 @@ import "../css/Hero.css";
 import profileImg from "../images/heroimg.png";
 import herocolor from "../images/herocolor.png"
 import logoImg from "../images/logo.png";
-import vector from "../images/Vector.png"
-import vector1 from "../images/Vector-1.png"
+import vector from "../images/Vector1.png"
+import vector1 from "../images/Vector.png"
 import vector2 from "../images/Vector-2.png"
 
 function Hero() {
